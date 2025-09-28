@@ -9,8 +9,7 @@ def main():
 
     sum_result = A + B
     mul_result = A * B
-    mat_result = A @ B  # or np.matmul(A, B)
-
+    mat_result = A @ B  # or np.matmul(A, B
     print(f"Array A: {A}")
     print(f"Array B: {B}")
     print(f"Elementwise Addition: {sum_result}" )
